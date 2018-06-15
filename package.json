@@ -1,0 +1,23 @@
+{
+  "name": "fine-npms",
+  "version": "1.0.0",
+  "description": "收集并积累有趣且有用的npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridego/fine-npms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fridego/fine-npms/issues"
+  },
+  "homepage": "https://github.com/fridego/fine-npms#readme",
+  "dependencies": {
+    "rimraf": "^2.6.2"
+  }
+}

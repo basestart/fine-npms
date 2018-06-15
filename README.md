@@ -1,2 +1,11 @@
 # fine-npms
-collections of npms
+
+##### 这是什么
+
+收集并积累有趣且有用的npm包
+
+##### 整理形式
+
+- npm包的用途说明
+
+- 源代码分析
