@@ -16,7 +16,7 @@ const rm = require('rimraf');
 // 递归删除当前目录下的rm文件
 rm('./rm', function(err){ // rm 为目录
     if(err){
-        throw err;                                                                                                                                                                                                                       
+        throw err;                   
     }
 })
 ```
